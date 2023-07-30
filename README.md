@@ -1,9 +1,9 @@
-#### 👋 Hi, I’m @nimarasi
-#### 🌱 I’m interested and currently learning in Data Science, ML, DL, AI, SQL
-#### 📫 How to reach me :
-[https://www.linkedin.com/in/nima-rasi-003694209/](https://www.linkedin.com/in/nima-rasi-003694209/)
+####  👋 Hi, I’m @nimarasi
+####  🌱 I’m interested and currently learning in Data Science, ML, DL, AI, SQL
+####  📫 How to reach me :
+- [https://www.linkedin.com/in/nima-rasi-003694209/](https://www.linkedin.com/in/nima-rasi-003694209/)
 
-[https://www.kaggle.com/nimarasi](https://www.kaggle.com/nimarasi)
+- [https://www.kaggle.com/nimarasi](https://www.kaggle.com/nimarasi)
 
 
 <!--
