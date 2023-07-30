@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+    👋 Hi, I’m @nimarasi
+    👀 I’m interested in Data Science, ML, DL, AI, SQL
+    📫 How to reach me :
+    https://www.linkedin.com/in/nima-rasi-003694209/
+    https://www.kaggle.com/nimarasi
+
+
 <!--
 **nimarasi/nimarasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
